@@ -29,7 +29,7 @@ Download data folder from this link and store in FCN folder in your Google drive
 ##### Run
 Open the main.ipynb file in your Google drive in Google Colab and run it. You MUST fix the path of your FCN folder in your respective Google Drive in the initial cells.
 e.g. the path in this folder must be replaced with your respective folder :-
-os.chdir('/content/gdrive/My Drive/Vivek-PC-2015/vsinghal/business/Disrupt4.0/AI Lab/demos/Image Segmentation/FCN')
+os.chdir('/content/gdrive/Image Segmentation/FCN')
 
 #Run the following command to run the project:
 #```
